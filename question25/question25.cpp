@@ -1,4 +1,4 @@
-// find n where fib(n) is the first fibonacci number with >1001 digits
+// find n where fib(n) is the first fibonacci number with >1000 digits
 #include <iostream>
 #include <string>
 #include <cstdio>
